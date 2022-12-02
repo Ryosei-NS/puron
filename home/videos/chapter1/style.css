@@ -4,3 +4,21 @@ body{
     left: -2%;
     width: 100%;
 }
+h2{
+    text-align: center;
+}
+
+img{
+    width: 30%;
+}
+
+.home{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+a{
+    width: 35%;
+}
